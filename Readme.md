@@ -1,4 +1,4 @@
-﻿## Desafio Transitions and Animatiosn
+﻿## Desafio Transitions and Animations
 
 ### Desafio de projeto utilizando conceitos básicos de transição e animação em CSS.
 
